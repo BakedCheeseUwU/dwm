@@ -4,4 +4,3 @@ movestack
 pertag
 scratchpads
 vanitygaps
-xrdb
