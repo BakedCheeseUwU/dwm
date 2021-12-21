@@ -1,0 +1,7 @@
+activetag
+alwayscenter
+movestack
+pertag
+scratchpads
+vanitygaps
+xrdb
